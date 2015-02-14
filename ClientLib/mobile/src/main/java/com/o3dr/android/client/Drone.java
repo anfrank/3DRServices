@@ -50,7 +50,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by fhuya on 11/4/14.
+ * Proxy for the vehicle.
  */
 public class Drone {
 
